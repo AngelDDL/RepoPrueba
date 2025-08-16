@@ -1,2 +1,2 @@
 # RepoPrueba
-computaciion en la nube
+computacion en la nube
